@@ -17,7 +17,6 @@ Public Release of Proxima Genesis contracts on Binance Smart Chain (BSC)
 ```
 1. https://docs.proxima.finance/
 2. https://proxima.finance/proxima/assets/images/PXA_LITEPAPER.pdf
-3. 
 ```
 
 ## License
